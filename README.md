@@ -1,3 +1,8 @@
+# eMenorah
+
+### YouTube video
+https://www.youtube.com/watch?v=8hWp5Kh7FtA
+
 Overview
 This repository contains all the design files and documentation for the Electronic Menorah project, an innovative approach to creating a menorah that uses RGB LEDs to simulate candle flames. The design is based on a combination of logic chips and microcontrollers to create flickering effects that mimic real flames.
 
