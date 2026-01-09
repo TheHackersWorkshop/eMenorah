@@ -27,6 +27,3 @@ TTP223 Touch Sensor is connected to VCC and GND, with the output going to Pin 14
 CD40106 Schmitt Triggers are configured with specific resistor-capacitor pairs to create distinct flickering effects for each set of LEDs. This configuration helps simulate the natural variation in flame flickering.
 LED Control
 Each LED is connected to a 74HC00N NAND gate that controls its state based on the output from the CD4017. This setup allows for precise control over each "candle" in the menorah, ensuring they light up in sequence and with the desired effect.
-
-# eMenorah
-Electronic Menorah Project
